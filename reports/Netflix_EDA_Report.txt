@@ -1,0 +1,45 @@
+NETFLIX MOVIES AND TV SHOWS - EXPLORATORY DATA ANALYSIS (EDA)
+
+Introduction
+
+This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and TV Shows dataset. The objective is to analyze content trends, distribution of movies and TV shows, countries producing content, genres, ratings, and Netflix's growth over time.
+
+Dataset Description
+
+The dataset contains information about Netflix titles including:
+
+* Type (Movie or TV Show)
+* Title
+* Director
+* Cast
+* Country
+* Date Added
+* Release Year
+* Rating
+* Duration
+* Genre
+* Description
+
+Key Findings
+
+1. Movies vs TV Shows
+   Netflix contains significantly more Movies (6131) than TV Shows (2676).
+
+2. Top Countries
+   The United States contributes the highest number of titles (2818), followed by India (972) and the United Kingdom (419).
+
+3. Top Genres
+   Drama-related categories and Documentaries are among the most common genres available on Netflix.
+
+4. Content Growth by Release Year
+   Netflix content production increased rapidly between 2015 and 2018, reaching its peak during this period.
+
+5. Ratings Distribution
+   TV-MA and TV-14 are the most common ratings, indicating that a large portion of Netflix content targets mature and teenage audiences.
+
+6. Content Added by Year
+   Netflix experienced major growth between 2016 and 2019, with the highest number of titles added in 2019.
+
+Conclusion
+
+The analysis shows that Netflix has a diverse content library dominated by movies. The platform experienced rapid growth in content additions during recent years, with strong contributions from the United States and India. Most content is targeted toward mature audiences, and drama-based genres are highly represented.
